@@ -2,24 +2,23 @@
 
 ## SEJA BEM-VINDO AO MEU PERFIL !!<br>
   
+## SEJA BEM-VINDO AO MEU PERFIL !!<br>
+  
 Tenho 25 anos, moro em Lisboa/PT e sou apaixonada por programação! Sou uma estudante permanente no universo da programação, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!  ❤</p>
 
 ## Habilidades ![pencil](https://github.com/victorialimalv/victorialimalv/assets/133249763/8d16342e-2e2b-44a7-86d5-6e938e603aad) <br>
 
-![html (2)](https://github.com/victorialimalv/victorialimalv/assets/133249763/22bb4f53-9fe3-4aa5-813a-cf10c7bd7831)
-![css (2)](https://github.com/victorialimalv/victorialimalv/assets/133249763/3b387a2b-78fe-4707-b95a-18c863e8d58b)
-![js (2)](https://github.com/victorialimalv/victorialimalv/assets/133249763/90105df2-d0a9-42a1-bb99-bdc6454a2905)
-![git](https://github.com/victorialimalv/victorialimalv/assets/133249763/6ce99c5b-d50b-48f7-b633-506ebb6bb1fb)
-##
-<a href="https://discord.gg/3353ADpy" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-<a href = "mailto:victoria.lima.falcao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vict%C3%B3ria-falc%C3%A3o-2951a51bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/victorialimalv/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+![HTML5](https://img.shields.io/badge/HTML5-E6E6FA?style=for-the-badge&logo=html5&logoColor=191970)
+![CSS3](https://img.shields.io/badge/CSS3-B0E0E6?style=for-the-badge&logo=css3&logoColor=B455D3)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFE4B5?style=for-the-badge&logo=javascript&logoColor=D2691E)
 
 
+## Conecte-se comigo 
 
-
-
+<a href = "mailto:victoria.lima.falcao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-87C?style=for-the-badge&logo=gmail&logoColor=E6E6FA" target="_blank"></a>
+[![Discord](https://img.shields.io/badge/Discord-bef693?style=for-the-badge&logo=discord&logoColor=006400)](https://discord.gg/TgRebJJxBd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-f693df?style=for-the-badge&logo=linkedin&logoColor=FF00FF)](https://www.linkedin.com/in/victória-falcão-2951a51bb/)
+[![Instagram](https://img.shields.io/badge/Instagram-f6f193?style=for-the-badge&logo=instagram&logoColor=ffD700)](https://www.instagram.com/victorialimalv/)
 
 
 
