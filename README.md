@@ -11,6 +11,8 @@ Tenho 25 anos, moro em Lisboa/PT e sou apaixonada por programação! Sou uma est
 ![HTML5](https://img.shields.io/badge/HTML5-E6E6FA?style=for-the-badge&logo=html5&logoColor=191970)
 ![CSS3](https://img.shields.io/badge/CSS3-B0E0E6?style=for-the-badge&logo=css3&logoColor=B455D3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFE4B5?style=for-the-badge&logo=javascript&logoColor=D2691E)
+![React](https://img.shields.io/badge/React-FFE4B5?style=for-the-badge&logo=reactt&logoColor=D2691E)
+
 
 
 ## Conecte-se comigo 
